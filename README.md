@@ -1,4 +1,4 @@
-# CODSOFT
+# MiniProjects
 Mini Projects developed using HTML, CSS and JS. It is developed using HTML, CSS and JS. It is responsive across all platform.
 It includes:
 Calculator,
